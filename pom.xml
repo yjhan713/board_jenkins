@@ -64,7 +64,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>spring_test</finalName>
+		<finalName>springboot_test</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
